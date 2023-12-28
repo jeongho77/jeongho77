@@ -41,5 +41,10 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  [![jeongho77's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho77)](https://github.com/jeongho77/github-readme-stats)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho77&theme=aura&show_icons=true)
+
 </div>
