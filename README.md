@@ -37,6 +37,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextJs&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/> 
+<img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/>  <!-- VS code -->
+<img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="24"/> <!-- Git -->
+<img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/><!-- Github -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/><!-- MySQL -->
+
 </div>
 
 <br>
