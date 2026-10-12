@@ -28,16 +28,33 @@ GPU 및 물리 서버 인프라 운영·관리 업무를 수행하고 있습니�
 - 🚀 새로운 기술과 프로젝트에 적극적으로 도전
 - 💡 아이디어를 실제 서비스로 구현하는 과정에 관심
 
+
 ### 💼 Experience
 
-**UNIST | Computer Systems Security Lab**
-- Researcher | 2026.09 ~ Present
-- GPU / Physical Server Infrastructure
-- Linux Server Operations & Management
+<table>
+  <tr>
+    <td width="80%">
+      <b>UNIST | Computer Systems Security Lab</b><br>
+      Researcher | 2026.09 ~ Present<br>
+      • GPU / Physical Server Infrastructure<br>
+      • Linux Server Operations & Management
+    </td>
+    <td width="20%" align="center">
+      <img src="./images/unist.png" width="150" height="200" alt="UNIST Logo">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>BASF | IT Infrastructure</b><br>
+      Internship | 2026.01 ~ 2026.02<br>
+      • Digital Safety Management Platform Development
+    </td>
+    <td align="center">
+      <img src="./images/basf.png" width="150" height="200" alt="BASF Logo">
+    </td>
+  </tr>
+</table>
 
-**BASF | IT Infrastructure**
-- Internship | 2026.01 – 2026.02
-- **Digital Safety Management Platform Development**
   
 ### 🏆 Achievements
 
