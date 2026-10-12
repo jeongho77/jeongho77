@@ -38,11 +38,7 @@ GPU 및 물리 서버 인프라 운영·관리 업무를 수행하고 있습니�
 **BASF | IT Infrastructure**
 - Internship | 2026.01 – 2026.02
 - **Digital Safety Management Platform Development**
-- 디지털 안전작업허가 관리 시스템(e-Permit App, PTW) 개발 및 테스트
-- 디지털 협력업체 관리 시스템(e-Contract App) 개발 및 테스트
-- 공정사고 관리 시스템(e-Incident App) 개발 및 테스트
-- 지속적 개선제안 관리 시스템(e-Suggestion App) 개발 참여
-
+  
 ### 🏆 Achievements
 
 - 🏆 **2026 이노베이션스퀘어 확산사업 동남권 최우수 사례 선정** — 과학기술정보통신부 장관상 수상 예정 (2026.11)
