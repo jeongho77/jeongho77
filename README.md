@@ -88,7 +88,7 @@ GPU 및 물리 서버 인프라 운영·관리 업무를 수행하고 있습니�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -100,7 +100,7 @@ GPU 및 물리 서버 인프라 운영·관리 업무를 수행하고 있습니�
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ### 🔗 More About Me
